@@ -18,7 +18,7 @@ REST API do zarządzania biblioteką zbudowane w Laravel 12, PHP 8.3 i MySQL 8.
 ### 1. Sklonuj repozytorium
 
 ```bash
-git clone https://github.com/TWOJA_NAZWA_REPO/library-api.git
+git clone https://github.com/Dawid1992/library-api.git
 cd library-api
 ```
 
